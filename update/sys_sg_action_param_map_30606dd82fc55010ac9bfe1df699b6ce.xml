@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_action_param_map">
+    <sys_sg_action_param_map action="INSERT_OR_UPDATE">
+        <button display_value="New Button (NeedIt)">f0606dd82fc55010ac9bfe1df699b6c4</button>
+        <item_parameter display_value="NeedIt business_service">70606dd82fc55010ac9bfe1df699b6c3</item_parameter>
+        <sys_class_name>sys_sg_action_param_map</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-24 01:52:00</sys_created_on>
+        <sys_id>30606dd82fc55010ac9bfe1df699b6ce</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>70606dd82fc55010ac9bfe1df699b6c3</sys_name>
+        <sys_package display_value="NeedIt Virtual Assistant" source="x_430024_needit_vi">6fff19142fc55010ac9bfe1df699b643</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt Virtual Assistant">6fff19142fc55010ac9bfe1df699b643</sys_scope>
+        <sys_update_name>sys_sg_action_param_map_30606dd82fc55010ac9bfe1df699b6ce</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-24 01:52:00</sys_updated_on>
+        <ui_parameter display_value="Service">f0606dd82fc55010ac9bfe1df699b6ca</ui_parameter>
+    </sys_sg_action_param_map>
+</record_update>

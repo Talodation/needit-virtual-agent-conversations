@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_aw_renderer">
+    <sys_aw_renderer action="INSERT_OR_UPDATE">
+        <custom_renderer display_value="sn-component-catalog-item">4e118ce10f132300bb57f4a1ff767ee0</custom_renderer>
+        <custom_renderer_tag>sn-component-catalog-item</custom_renderer_tag>
+        <module_flag>false</module_flag>
+        <renderer_type>record</renderer_type>
+        <sys_class_name>sys_aw_renderer</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-24 01:51:43</sys_created_on>
+        <sys_id>e050a9d82fc55010ac9bfe1df699b64a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="NeedIt Virtual Assistant" source="x_430024_needit_vi">6fff19142fc55010ac9bfe1df699b643</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt Virtual Assistant">6fff19142fc55010ac9bfe1df699b643</sys_scope>
+        <sys_update_name>sys_aw_renderer_e050a9d82fc55010ac9bfe1df699b64a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-24 01:51:43</sys_updated_on>
+        <table>sc_cat_item_guide</table>
+        <workspace_config display_value="NeedIt Virtual Assistant">474069982fc55010ac9bfe1df699b6d0</workspace_config>
+        <workspace_module/>
+    </sys_aw_renderer>
+</record_update>
